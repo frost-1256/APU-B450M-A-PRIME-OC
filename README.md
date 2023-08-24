@@ -8,6 +8,10 @@ Ventura 13.5.1をOpenCore 0.9.4でテストしました.
  LAN Realtek 8111H. 
 CPU Ryzen 3 3200G With Radeon Graphics  
 GPU GTX 1050 2GB.  
+⚠️注意点  
+AppleALC 非搭載  
+Resourceが空ですのでご自身でご用意ください
+全て自己責任で行ってください
 
 Ventura 13.5.1のみのインストーラー起動確認. 
 Montereyぐらいだと動くと思いますが. 
