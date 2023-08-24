@@ -31,6 +31,12 @@ Motherboard ASUS B450M-A PRIME
 CPU Ryzen 3 3200G With Radeon Graphics
 GPU GTX 1050 2GB
 
+⚠️Notes
+Without Apple ALC
+Resource is empty, so please prepare by yourself Please do everything at your own risk
+
+Confirmation of starting the installer for Ventura 13.5.1 only. I think Monterey will work, but Ventura is recommended.
+
 link used
 https://github.com/acidanthera/OpenCorePkg
 
