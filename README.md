@@ -11,7 +11,9 @@ GPU GTX 1050 2GB
 
 使ったリンク
 https://github.com/acidanthera/OpenCorePkg
+
 https://github.com/corpnewt/ProperTree
+
 https://github.com/AMD-OSX/AMD_Vanilla/
 
 I tested Ventura 13.5.1 with OpenCore 0.9.4
@@ -23,5 +25,7 @@ GPU GTX 1050 2GB
 
 link used
 https://github.com/acidanthera/OpenCorePkg
+
 https://github.com/corpnewt/ProperTree
+
 https://github.com/AMD-OSX/AMD_Vanilla/
