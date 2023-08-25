@@ -1,15 +1,17 @@
 # APU-B450M-A-PRIME-OC
 macOS Ventura For ASUS B450M-A PRIME 
 
+![Info](https://github.com/frost-1256/APU-B450M-A-PRIME-OC/assets/108122312/9b418720-0492-4a10-ae11-5f19331bd718)
+
+
 日本のHackintoshユーザー向け. 
 Ventura 13.5.1をOpenCore 0.9.4でテストしました. 
 
 マザー ASUS B450M-A PRIME. 
  LAN Realtek 8111H. 
 CPU Ryzen 3 3200G With Radeon Graphics  
-GPU GTX 1050 2GB.  
+GPU Radeon Vega 8 Graphics(NootedRed) 
 ⚠️注意点  
-AppleALC 非搭載  
 Resourceが空ですのでご自身でご用意ください
 全て自己責任で行ってください
 
